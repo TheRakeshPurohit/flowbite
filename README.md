@@ -1,6 +1,6 @@
 <p>
     <a href="https://flowbite.com" >
-      <img alt="Flowbite - Tailwind CSS components" width="350" src="https://flowbite.s3.amazonaws.com/github/logo-github.png">
+      <img alt="Flowbite - Tailwind CSS components" width="350" src="static/images/github/logo-github.png">
     </a><br>
     Build websites even faster with components on top of Tailwind CSS
 </p>
@@ -325,17 +325,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/alerts/">
-            <img alt="Tailwind CSS Alerts" src="https://flowbite.s3.amazonaws.com/github/alerts.jpg">
+            <img alt="Tailwind CSS Alerts" src="static/images/github/alerts.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/badge/">
-            <img alt="Tailwind CSS Badge" src="https://flowbite.s3.amazonaws.com/github/badge.jpg">
+            <img alt="Tailwind CSS Badge" src="static/images/github/badge.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/breadcrumb/">
-            <img alt="Tailwind CSS Breadcrumbs" src="https://flowbite.s3.amazonaws.com/github/breadcrumbs.jpg">
+            <img alt="Tailwind CSS Breadcrumbs" src="static/images/github/breadcrumbs.jpg">
         </a>
     </td>
   </tr>
@@ -347,17 +347,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/buttons/">
-            <img alt="Tailwind CSS Buttons" src="https://flowbite.s3.amazonaws.com/github/buttons.jpg">
+            <img alt="Tailwind CSS Buttons" src="static/images/github/buttons.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/button-group/">
-            <img alt="Tailwind CSS Button Group" src="https://flowbite.s3.amazonaws.com/github/button-group.jpg">
+            <img alt="Tailwind CSS Button Group" src="static/images/github/button-group.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/card/">
-            <img alt="Tailwind CSS Cards" src="https://flowbite.s3.amazonaws.com/github/cards.jpg">
+            <img alt="Tailwind CSS Cards" src="static/images/github/cards.jpg">
         </a>
     </td>
   </tr>
@@ -369,17 +369,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/dropdowns/">
-            <img alt="Tailwind CSS Dropdown" src="https://flowbite.s3.amazonaws.com/github/dropdown.jpg">
+            <img alt="Tailwind CSS Dropdown" src="static/images/github/dropdown.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/forms/">
-            <img alt="Tailwind CSS Forms" src="https://flowbite.s3.amazonaws.com/github/forms.jpg">
+            <img alt="Tailwind CSS Forms" src="static/images/github/forms.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/list-group/">
-            <img alt="Tailwind CSS List group" src="https://flowbite.s3.amazonaws.com/github/list-group.jpg">
+            <img alt="Tailwind CSS List group" src="static/images/github/list-group.jpg">
         </a>
     </td>
   </tr>
@@ -391,17 +391,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/typography/">
-            <img alt="Tailwind CSS Typography" src="https://flowbite.s3.amazonaws.com/github/typography.jpg">
+            <img alt="Tailwind CSS Typography" src="static/images/github/typography.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/modal/">
-            <img alt="Tailwind CSS Modal" src="https://flowbite.s3.amazonaws.com/github/modal.jpg">
+            <img alt="Tailwind CSS Modal" src="static/images/github/modal.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/tabs/">
-            <img alt="Tailwind CSS Tabs" src="https://flowbite.s3.amazonaws.com/github/tabs.jpg">
+            <img alt="Tailwind CSS Tabs" src="static/images/github/tabs.jpg">
         </a>
     </td>
   </tr>
@@ -413,17 +413,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/navbar/">
-            <img alt="Tailwind CSS Navbar" src="https://flowbite.s3.amazonaws.com/github/navbar.jpg">
+            <img alt="Tailwind CSS Navbar" src="static/images/github/navbar.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/pagination/">
-            <img alt="Tailwind CSS Pagination" src="https://flowbite.s3.amazonaws.com/github/pagination.jpg">
+            <img alt="Tailwind CSS Pagination" src="static/images/github/pagination.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/timeline/">
-            <img alt="Tailwind CSS Timeline" src="https://flowbite.s3.amazonaws.com/github/timeline.jpg">
+            <img alt="Tailwind CSS Timeline" src="static/images/github/timeline.jpg">
         </a>
     </td>
   </tr>
@@ -435,17 +435,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/progress/">
-            <img alt="Tailwind CSS Progress Bar" src="https://flowbite.s3.amazonaws.com/github/progress.jpg">
+            <img alt="Tailwind CSS Progress Bar" src="static/images/github/progress.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/tables/">
-            <img alt="Tailwind CSS Tables" src="https://flowbite.s3.amazonaws.com/github/tables.jpg">
+            <img alt="Tailwind CSS Tables" src="static/images/github/tables.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/toast/">
-            <img alt="Tailwind CSS Toast" src="https://flowbite.s3.amazonaws.com/github/toast.jpg">
+            <img alt="Tailwind CSS Toast" src="static/images/github/toast.jpg">
         </a>
     </td>
   </tr>
@@ -457,17 +457,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/tooltips/">
-            <img alt="Tailwind CSS Tooltips" src="https://flowbite.s3.amazonaws.com/github/tooltips.jpg">
+            <img alt="Tailwind CSS Tooltips" src="static/images/github/tooltips.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/datepicker/">
-            <img alt="Tailwind CSS Datepicker" src="https://flowbite.s3.amazonaws.com/github/datepicker.jpg">
+            <img alt="Tailwind CSS Datepicker" src="static/images/github/datepicker.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/spinner/">
-            <img alt="Tailwind CSS Spinner" src="https://flowbite.s3.amazonaws.com/github/spinner.jpg">
+            <img alt="Tailwind CSS Spinner" src="static/images/github/spinner.jpg">
         </a>
     </td>
   </tr>
@@ -479,17 +479,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/footer/">
-            <img alt="Tailwind CSS Footer" src="https://flowbite.s3.amazonaws.com/github/footer.jpg">
+            <img alt="Tailwind CSS Footer" src="static/images/github/footer.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/accordion/">
-            <img alt="Tailwind CSS Accordion" src="https://flowbite.s3.amazonaws.com/github/accordion.jpg">
+            <img alt="Tailwind CSS Accordion" src="static/images/github/accordion.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/sidebar/">
-            <img alt="Tailwind CSS Sidebar" src="https://flowbite.s3.amazonaws.com/github/sidebar.jpg">
+            <img alt="Tailwind CSS Sidebar" src="static/images/github/sidebar.jpg">
         </a>
     </td>
   </tr>
@@ -501,17 +501,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/carousel/">
-            <img alt="Tailwind CSS Carousel" src="https://flowbite.s3.amazonaws.com/github/carousel.jpg">
+            <img alt="Tailwind CSS Carousel" src="static/images/github/carousel.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/avatar/">
-            <img alt="Tailwind CSS Avatar" src="https://flowbite.s3.amazonaws.com/github/avatar.jpg">
+            <img alt="Tailwind CSS Avatar" src="static/images/github/avatar.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/rating/">
-            <img alt="Tailwind CSS Rating" src="https://flowbite.s3.amazonaws.com/github/rating.jpg">
+            <img alt="Tailwind CSS Rating" src="static/images/github/rating.jpg">
         </a>
     </td>
   </tr>
@@ -523,17 +523,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/input-field/">
-            <img alt="Tailwind CSS Input Field" src="https://flowbite.s3.amazonaws.com/github/input-field.jpg">
+            <img alt="Tailwind CSS Input Field" src="static/images/github/input-field.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/file-input/">
-            <img alt="Tailwind CSS File Input" src="https://flowbite.s3.amazonaws.com/github/file-input.jpg">
+            <img alt="Tailwind CSS File Input" src="static/images/github/file-input.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/search-input/">
-            <img alt="Tailwind CSS Search Input" src="https://flowbite.s3.amazonaws.com/github/search-input.jpg">
+            <img alt="Tailwind CSS Search Input" src="static/images/github/search-input.jpg">
         </a>
     </td>
   </tr>
@@ -545,17 +545,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/select/">
-            <img alt="Tailwind CSS Select" src="https://flowbite.s3.amazonaws.com/github/select.jpg">
+            <img alt="Tailwind CSS Select" src="static/images/github/select.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/textarea/">
-            <img alt="Tailwind CSS Textarea" src="https://flowbite.s3.amazonaws.com/github/textarea.jpg">
+            <img alt="Tailwind CSS Textarea" src="static/images/github/textarea.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/checkbox/">
-            <img alt="Tailwind CSS Checkbox" src="https://flowbite.s3.amazonaws.com/github/checkbox.jpg">
+            <img alt="Tailwind CSS Checkbox" src="static/images/github/checkbox.jpg">
         </a>
     </td>
   </tr>
@@ -567,17 +567,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/radio/">
-            <img alt="Tailwind CSS Radio" src="https://flowbite.s3.amazonaws.com/github/radio.jpg">
+            <img alt="Tailwind CSS Radio" src="static/images/github/radio.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/toggle/">
-            <img alt="Tailwind CSS Toggle" src="https://flowbite.s3.amazonaws.com/github/toggle.jpg">
+            <img alt="Tailwind CSS Toggle" src="static/images/github/toggle.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/range/">
-            <img alt="Tailwind CSS Range Slider" src="https://flowbite.s3.amazonaws.com/github/range-slider.jpg">
+            <img alt="Tailwind CSS Range Slider" src="static/images/github/range-slider.jpg">
         </a>
     </td>
   </tr>
@@ -589,17 +589,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/floating-label/">
-            <img alt="Tailwind CSS Floating Label" src="https://flowbite.s3.amazonaws.com/github/floating-label.jpg">
+            <img alt="Tailwind CSS Floating Label" src="static/images/github/floating-label.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/mega-menu/">
-            <img alt="Tailwind CSS Mega Menu" src="https://flowbite.s3.amazonaws.com/github/mega-menu.jpg">
+            <img alt="Tailwind CSS Mega Menu" src="static/images/github/mega-menu.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/skeleton/">
-            <img alt="Tailwind CSS Skeleton" src="https://flowbite.s3.amazonaws.com/github/skeleton.jpg">
+            <img alt="Tailwind CSS Skeleton" src="static/images/github/skeleton.jpg">
         </a>
     </td>
   </tr>
@@ -611,17 +611,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/kbd/">
-            <img alt="Tailwind CSS KBD (Keyboard)" src="https://flowbite.s3.amazonaws.com/github/kbd.jpg">
+            <img alt="Tailwind CSS KBD (Keyboard)" src="static/images/github/kbd.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/drawer/">
-            <img alt="Tailwind CSS Drawer (offcanvas)" src="https://flowbite.s3.amazonaws.com/github/drawer.jpg">
+            <img alt="Tailwind CSS Drawer (offcanvas)" src="static/images/github/drawer.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/popover/">
-            <img alt="Tailwind CSS Popover" src="https://flowbite.s3.amazonaws.com/github/popover.jpg">
+            <img alt="Tailwind CSS Popover" src="static/images/github/popover.jpg">
         </a>
     </td>
   </tr>
@@ -633,17 +633,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/video/">
-            <img alt="Tailwind CSS Video" src="https://flowbite.s3.amazonaws.com/github/video.jpg">
+            <img alt="Tailwind CSS Video" src="static/images/github/video.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/headings/">
-            <img alt="Tailwind CSS Heading" src="https://flowbite.s3.amazonaws.com/github/heading.jpg">
+            <img alt="Tailwind CSS Heading" src="static/images/github/heading.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/paragraphs/">
-            <img alt="Tailwind CSS Paragraph" src="https://flowbite.s3.amazonaws.com/github/paragraph.jpg">
+            <img alt="Tailwind CSS Paragraph" src="static/images/github/paragraph.jpg">
         </a>
     </td>
   </tr>
@@ -655,17 +655,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/blockquote/">
-            <img alt="Tailwind CSS Blockquote" src="https://flowbite.s3.amazonaws.com/github/blockquote.jpg">
+            <img alt="Tailwind CSS Blockquote" src="static/images/github/blockquote.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/images/">
-            <img alt="Tailwind CSS Image" src="https://flowbite.s3.amazonaws.com/github/image.jpg">
+            <img alt="Tailwind CSS Image" src="static/images/github/image.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/lists/">
-            <img alt="Tailwind CSS List" src="https://flowbite.s3.amazonaws.com/github/list.jpg">
+            <img alt="Tailwind CSS List" src="static/images/github/list.jpg">
         </a>
     </td>
   </tr>
@@ -677,17 +677,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/links/">
-            <img alt="Tailwind CSS Link" src="https://flowbite.s3.amazonaws.com/github/link.jpg">
+            <img alt="Tailwind CSS Link" src="static/images/github/link.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/text/">
-            <img alt="Tailwind CSS Text" src="https://flowbite.s3.amazonaws.com/github/text.jpg">
+            <img alt="Tailwind CSS Text" src="static/images/github/text.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/typography/hr/">
-            <img alt="Tailwind CSS HR" src="https://flowbite.s3.amazonaws.com/github/hr.jpg">
+            <img alt="Tailwind CSS HR" src="static/images/github/hr.jpg">
         </a>
     </td>
   </tr>
@@ -699,17 +699,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/speed-dial/">
-            <img alt="Tailwind CSS Speed Dial" src="https://flowbite.s3.amazonaws.com/github/dial.jpg">
+            <img alt="Tailwind CSS Speed Dial" src="static/images/github/dial.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/stepper/">
-            <img alt="Tailwind CSS Stepper" src="https://flowbite.s3.amazonaws.com/github/stepper.jpg">
+            <img alt="Tailwind CSS Stepper" src="static/images/github/stepper.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/indicators/">
-            <img alt="Tailwind CSS Indicators" src="https://flowbite.s3.amazonaws.com/github/indicators.jpg">
+            <img alt="Tailwind CSS Indicators" src="static/images/github/indicators.jpg">
         </a>
     </td>
   </tr>
@@ -721,17 +721,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/bottom-navigation/">
-            <img alt="Tailwind CSS Bottom Navigation Bar" src="https://flowbite.s3.amazonaws.com/github/bottom-bar.jpg">
+            <img alt="Tailwind CSS Bottom Navigation Bar" src="static/images/github/bottom-bar.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/banner/">
-            <img alt="Tailwind CSS Bottom Sticky Banner" src="https://flowbite.s3.amazonaws.com/github/banner.jpg">
+            <img alt="Tailwind CSS Bottom Sticky Banner" src="static/images/github/banner.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/gallery/">
-            <img alt="Tailwind CSS Image Gallery (Masonry)" src="https://flowbite.s3.amazonaws.com/github/gallery.jpg">
+            <img alt="Tailwind CSS Image Gallery (Masonry)" src="static/images/github/gallery.jpg">
         </a>
     </td>
   </tr>
@@ -743,17 +743,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/jumbotron/">
-            <img alt="Tailwind CSS Jumbotron" src="https://flowbite.s3.amazonaws.com/github/jumbotron.jpg">
+            <img alt="Tailwind CSS Jumbotron" src="static/images/github/jumbotron.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/device-mockups/">
-            <img alt="Tailwind CSS Device Mockups" src="https://flowbite.s3.amazonaws.com/github/device-mockups.jpg">
+            <img alt="Tailwind CSS Device Mockups" src="static/images/github/device-mockups.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/plugins/charts/">
-            <img alt="Tailwind CSS Charts" src="https://flowbite.s3.amazonaws.com/github/charts.jpg">
+            <img alt="Tailwind CSS Charts" src="static/images/github/charts.jpg">
         </a>
     </td>
   </tr>
@@ -765,17 +765,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/number-input/">
-            <img alt="Tailwind CSS Number Input" src="https://flowbite.s3.amazonaws.com/github/number-input.jpg">
+            <img alt="Tailwind CSS Number Input" src="static/images/github/number-input.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/phone-input/">
-            <img alt="Tailwind CSS Phone Input" src="https://flowbite.s3.amazonaws.com/github/phone-input.jpg">
+            <img alt="Tailwind CSS Phone Input" src="static/images/github/phone-input.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/chat-bubble/">
-            <img alt="Tailwind CSS Chat Bubble" src="https://flowbite.s3.amazonaws.com/github/chat-bubble.jpg">
+            <img alt="Tailwind CSS Chat Bubble" src="static/images/github/chat-bubble.jpg">
         </a>
     </td>
   </tr>
@@ -788,17 +788,17 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/clipboard/">
-            <img alt="Tailwind CSS Clipboard" src="https://flowbite.s3.amazonaws.com/github/clipboard.jpg">
+            <img alt="Tailwind CSS Clipboard" src="static/images/github/clipboard.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/forms/timepicker/">
-            <img alt="Tailwind CSS Timepicker" src="https://flowbite.s3.amazonaws.com/github/timepicker.jpg">
+            <img alt="Tailwind CSS Timepicker" src="static/images/github/timepicker.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/plugins/datatables/">
-            <img alt="Tailwind CSS DataTables" src="https://flowbite.s3.amazonaws.com/github/datatables.jpg">
+            <img alt="Tailwind CSS DataTables" src="static/images/github/datatables.jpg">
         </a>
     </td>
   </tr>
@@ -810,12 +810,12 @@ Flowbite is an open source collection of UI components built with the utility cl
   <tr>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/plugins/wysiwyg/">
-            <img alt="Tailwind CSS WYSIWYG Text Editor" src="https://flowbite.s3.amazonaws.com/github/wysiwyg.jpg">
+            <img alt="Tailwind CSS WYSIWYG Text Editor" src="static/images/github/wysiwyg.jpg">
         </a>
     </td>
     <td width="33.3333%">
         <a href="https://flowbite.com/docs/components/qr-code/">
-            <img alt="Tailwind CSS QR Code" src="https://flowbite.s3.us-east-1.amazonaws.com/github/qrcode.jpg">
+            <img alt="Tailwind CSS QR Code" src="static/images/github/qrcode.jpg">
         </a>
     </td>
     <td width="33.3333%"></td>
